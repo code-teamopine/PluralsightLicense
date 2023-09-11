@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PluralsightLicense.Console", "PluralsightLicense.Console\PluralsightLicense.Console.csproj", "{AA30E276-9F39-4CDD-827C-8CD443EB8599}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PluralsightLicense.Data", "PluralsightLicense.Data\PluralsightLicense.Data.csproj", "{270728B8-5D15-4226-9582-13100992F069}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PluralsightLicense.Service", "PluralsightLicense.Service\PluralsightLicense.Service.csproj", "{E87A764E-B8B2-46CC-93C4-9CFEDB5215F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PluralsightLicense.Test", "PluralsightLicenseTest\PluralsightLicense.Test.csproj", "{F69C46AF-EF54-4A2F-9BD1-4ACF6B9D1F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralsightLicense.Repo", "PluralsightLicense.Repo\PluralsightLicense.Repo.csproj", "{1FFC7DC5-1771-4A2F-8109-5FAAA5224585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA30E276-9F39-4CDD-827C-8CD443EB8599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA30E276-9F39-4CDD-827C-8CD443EB8599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA30E276-9F39-4CDD-827C-8CD443EB8599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA30E276-9F39-4CDD-827C-8CD443EB8599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270728B8-5D15-4226-9582-13100992F069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270728B8-5D15-4226-9582-13100992F069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270728B8-5D15-4226-9582-13100992F069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270728B8-5D15-4226-9582-13100992F069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87A764E-B8B2-46CC-93C4-9CFEDB5215F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87A764E-B8B2-46CC-93C4-9CFEDB5215F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87A764E-B8B2-46CC-93C4-9CFEDB5215F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87A764E-B8B2-46CC-93C4-9CFEDB5215F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69C46AF-EF54-4A2F-9BD1-4ACF6B9D1F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69C46AF-EF54-4A2F-9BD1-4ACF6B9D1F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69C46AF-EF54-4A2F-9BD1-4ACF6B9D1F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69C46AF-EF54-4A2F-9BD1-4ACF6B9D1F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FFC7DC5-1771-4A2F-8109-5FAAA5224585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFC7DC5-1771-4A2F-8109-5FAAA5224585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFC7DC5-1771-4A2F-8109-5FAAA5224585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFC7DC5-1771-4A2F-8109-5FAAA5224585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B1C6CCE-06F6-48F7-955A-C1B60BAEC35A}
+	EndGlobalSection
+EndGlobal
